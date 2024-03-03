@@ -1,13 +1,8 @@
-### hiya!
+## How's it going? 😎
 
+CS Student
 
-- cs student
+Interested in: Math, Algorithms, Data Visualization, Robotics, Finance
 
+Have worked with: Python, Java, SQL, C++
 
-(\*^▽^\*)
-
-
-<!-- ![knarf27's GitHub stats](https://github-readme-stats.vercel.app/api?username=knarf27&show_icons=true&theme=tokyonight) --!>
-
-
- 
